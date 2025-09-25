@@ -1,15 +1,11 @@
 # TTSDS - Text-to-Speech Distribution Score
 
-[![PyPI - Version](https://img.shields.io/pypi/v/ttsds.svg)](https://pypi.org/project/ttsds) [![Tests](https://github.com/ttsds/ttsds/actions/workflows/tests.yml/badge.svg)](https://github.com/ttsds/ttsds/actions/workflows/tests.yml) [![Coverage](https://raw.githubusercontent.com/ttsds/ttsds/main/docs/assets/img/coverage.svg)](https://github.com/ttsds/ttsds/actions)
-
-<img src="https://api.star-history.com/svg?repos=ttsds/ttsds&type=Date" style="width:45em">
-
 TTSDS is a comprehensive benchmark for evaluating the quality of synthetic speech in Text-to-Speech (TTS) systems. It assesses multiple aspects of speech quality including prosody, speaker identity, and intelligibility by comparing synthetic speech with both real speech and noise datasets.
 
 ## Version 2.1.1
 
 We are excited to release TTSDS 2.1.1 - we fixed some issues with the installation in the latest update.
-TTSDS2 is multilingual and updated quarterly, with a new dataset every time: you can view the results at https://ttsdsbenchmark.com#leaderboard.
+TTSDS2 is multilingual and updated quarterly, with a new dataset every time: you can view the results at ANONYMIZED.
 
 
 
@@ -52,27 +48,7 @@ pip install "numpy<2"
 ```bash
 # Basic installation
 pip install ttsds
-```
-
-### Optional: Fairseq Installation
-
-If you encounter dependency conflicts with fairseq, use this fork:
-```bash
-pip install git+https://github.com/MiniXC/fairseq-noconf
-```
-
-### Development Installation
-
-For development, install with the dev extras:
-
-```bash
-# Clone the repository
-git clone https://github.com/ttsds/ttsds.git
-cd ttsds
-
-# Install with development dependencies
-pip install -e ".[dev]"
-```
+```ƒ
 
 ## Usage
 
@@ -210,25 +186,7 @@ mkdocs build
 mkdocs serve
 ```
 
-## Citation
-
-```bibtex
-@inproceedings{minixhofer2024ttsds,
-  title={TTSDS-Text-to-Speech Distribution Score},
-  author={Minixhofer, Christoph and Klejch, Ond{\v{r}}ej and Bell, Peter},
-  booktitle={SLT},
-  year={2024},
-}
-
-```
-
 
 ## License
 
 `ttsds` is distributed under the terms of the [MIT](https://spdx.org/licenses/MIT.html) license.
-
-## Links
-
-- [Paper](https://arxiv.org/abs/2407.12707)
-- [HuggingFace Space](https://huggingface.co/spaces/ttsds/benchmark)
-- [Website](https://ttsdsbenchmark.com)
