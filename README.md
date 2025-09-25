@@ -1,3 +1,5 @@
+# DISCLAIMER: This code is provided for review, but cannot be run, as it requires resources hosted on huggingface and github, including models and datasets, which cannot be provided due to the anonymization requirements.
+
 # TTSDS - Text-to-Speech Distribution Score
 
 TTSDS is a comprehensive benchmark for evaluating the quality of synthetic speech in Text-to-Speech (TTS) systems. It assesses multiple aspects of speech quality including prosody, speaker identity, and intelligibility by comparing synthetic speech with both real speech and noise datasets.
