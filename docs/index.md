@@ -11,7 +11,7 @@ title: TTSDS Documentation
 
 TTSDS is a comprehensive benchmark for evaluating the quality of synthetic speech in Text-to-Speech (TTS) systems. It uses **distributional distances** across multiple **perceptually-motivated** dimensions of speech quality including prosody, speaker identity, and intelligibility by comparing synthetic speech with both real speech and noise datasets.
 
-To see the latest results for TTS systems, check out the [TTSDS website](https://ttsdsbenchmark.com).
+To see the latest results for TTS systems, check out the [TTSDS website](https://anonymous-benchmark.com).
 
 ## What is TTSDS?
 
@@ -40,20 +40,20 @@ TTSDS gives a more comprehensive and nuanced evaluation of synthetic speech than
 - [Benchmarks](reference/benchmarks.md)
 - [Paper (TTSDS1)](https://arxiv.org/abs/2407.12707)
 - [Paper (TTSDS2)](https://arxiv.org/abs/2506.19441)
-- [Website](https://ttsdsbenchmark.com)
+- [Website](https://anonymous-benchmark.com)
 
 ## Citation
 
 ```bibtex
-@inproceedings{minixhofer2024ttsds,
+@inproceedings{anonymous2024ttsds,
   title={TTSDS - Text-to-Speech Distribution Score},
-  author={Minixhofer, Christoph and Klejch, Ond{\v{r}}ej and Bell, Peter},
+  author={Anonymous and Klejch, Ond{\v{r}}ej and Bell, Peter},
   booktitle={SLT},
   year={2024},
 }
-@misc{minixhofer2025ttsds2,
+@misc{anonymous2025ttsds2,
       title={TTSDS2: Resources and Benchmark for Evaluating Human-Quality Text to Speech Systems}, 
-      author={Christoph Minixhofer and Ond{\v{r}}ej Klejch and Peter Bell},
+      author={Anonymous and Ond{\v{r}}ej Klejch and Peter Bell},
       year={2025},
       eprint={2506.19441},
       archivePrefix={arXiv},

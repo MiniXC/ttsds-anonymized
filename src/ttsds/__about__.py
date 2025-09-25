@@ -4,7 +4,7 @@ TTSDS package metadata and version information.
 This module contains package metadata used both in the PyPI package and the code.
 """
 
-# SPDX-FileCopyrightText: 2024-present Christoph Minixhofer <christoph.minixhofer@gmail.com>
+# SPDX-FileCopyrightText: 2024-present Anonymous
 #
 # SPDX-License-Identifier: MIT
 

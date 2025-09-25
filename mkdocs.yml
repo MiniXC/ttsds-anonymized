@@ -1,6 +1,6 @@
 site_name: TTSDS Documentation
 site_description: Text-to-Speech Distribution Score - A comprehensive benchmark for evaluating TTS systems
-site_author: Christoph Minixhofer
+site_author: Anonymous
 repo_url: https://github.com/ttsds/ttsds
 repo_name: ttsds/ttsds
 
