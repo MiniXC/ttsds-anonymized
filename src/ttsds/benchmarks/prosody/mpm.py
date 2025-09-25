@@ -20,7 +20,7 @@ class MPMBenchmark(Benchmark):
 
     def __init__(
         self,
-        mpm_model: str = "cdminix/masked_prosody_model",
+        mpm_model: str = "anonymous/masked_prosody_model",
         mpm_layer: int = 7,
     ):
         super().__init__(

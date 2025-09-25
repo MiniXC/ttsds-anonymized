@@ -112,4 +112,4 @@ suite = BenchmarkSuite(
 - [Benchmarks](reference/benchmarks.md)
 - [Paper (TTSDS1)](https://arxiv.org/abs/2407.12707)
 - [Paper (TTSDS2)](https://arxiv.org/abs/2506.19441)
-- [Website](https://ttsdsbenchmark.com)
+- [Website](https://anonymous-benchmark.com)

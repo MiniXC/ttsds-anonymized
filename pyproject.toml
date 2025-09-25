@@ -14,7 +14,7 @@ license-files = [
 ]
 keywords = []
 authors = [
-  { name = "Christoph Minixhofer", email = "christoph.minixhofer@gmail.com" },
+  { name = "Anonymous" },
 ]
 classifiers = [
   "Development Status :: 4 - Beta",

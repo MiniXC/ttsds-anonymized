@@ -58,7 +58,7 @@ print(ttsds.__version__)
 If you encounter dependency conflicts with fairseq, use this fork:
 
 ```bash
-pip install git+https://github.com/MiniXC/fairseq-noconf
+pip install git+https://github.com/anonymous/fairseq-noconf
 ```
 
 #### PyTorch Installation
@@ -77,7 +77,7 @@ pip install torch torchvision torchaudio --extra-index-url https://download.pyto
 
 If you encounter any issues during installation, please:
 
-1. Check the [GitHub issues](https://github.com/MiniXC/ttsds/issues) to see if your problem has been reported
+1. Check the [GitHub issues](https://github.com/anonymous/ttsds/issues) to see if your problem has been reported
 2. Open a new issue if necessary, providing detailed information about your environment and the error messages
 
 ## Quick Links
@@ -88,4 +88,4 @@ If you encounter any issues during installation, please:
 - [Benchmarks](reference/benchmarks.md)
 - [Paper (TTSDS1)](https://arxiv.org/abs/2407.12707)
 - [Paper (TTSDS2)](https://arxiv.org/abs/2506.19441)
-- [Website](https://ttsdsbenchmark.com)
+- [Website](https://anonymous-benchmark.com)
