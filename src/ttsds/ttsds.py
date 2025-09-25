@@ -134,7 +134,7 @@ if not (CACHE_DIR / "noise-reference").exists():
         [
             "git",
             "clone",
-            "https://huggingface.co/datasets/ttsds/noise-reference",
+            "ANONYMIZED",
             str(CACHE_DIR / "noise-reference"),
         ],
         check=True,
